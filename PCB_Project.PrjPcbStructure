@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=EMBEDDED_SYSTEM.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=EMBEDDED_SYSTEM.SchDoc|Designator=01_POWER_DIAGRAM|SchDesignator=01_POWER_DIAGRAM|FileName=01_POWER_DIAGRAM.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=01_POWER_DIAGRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=EMBEDDED_SYSTEM.SchDoc|Designator=02_MCU_ESP32_WROOM|SchDesignator=02_MCU_ESP32_WROOM|FileName=02_MCU_ESP32_WROOM.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=02_MCU_ESP32_WROOM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

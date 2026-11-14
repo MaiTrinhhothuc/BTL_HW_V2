@@ -1,0 +1,6 @@
+Added Component: Designator=U4(BMS_BATTERY_PROTECTION)
+Added Pin To Net: NetName=NetBT1_P2 Pin=U4-1
+Added Pin To Net: NetName=NetBT1_N1 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=NetBT1_N2 Pin=U4-4
+Added Pin To Net: NetName=BATTERY+ Pin=U4-5
